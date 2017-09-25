@@ -1,0 +1,15 @@
+Practical: Functions							TY B.Sc Computer Science
+1.Write a PL/SQL function to return a value for finding the sum of first 10 natural number.
+2.Write a PL/SQL function called Factorial that take an integer as parameter and return the factorial of related no.
+3.Write a PL/SQL function that sal amount parameter and return the sum of salary of employees getting more salary then input salary.
+4.Write a PL/SQL function that take the deptno as parameter and display the name and salary of employees working in that dept and return the sum of sal of such employees.
+5.Create table Customer. Insert 5 meaning full records in it. Write a function to count number of Customers and return value back.
+6.Write a function and call it in dbms_output.put_line.
+7.Use table ticket_detail (Ticket_no, Name, Gender, Age, Fare). Write a PL/SQL block which calls a function to count the number of tickets and fare having gender as “male”.
+8.Use table employee ( empid, empname, empsalary). Write a function which uses parameters as employee id and employee salary, must be user taken, then increase the salary of employee using following rules:-
+If salary is between 10000 and 20000, then increase the salary by 1.2.
+If salary is between 20000 and 30000, then increase the salary by 1.3.
+If salary is above 30000, then increase the salary by 1.4.
+Write a PL/SQL block to call above function to display the details of employee with increased salary.
+9.Create table Porder (ordid, pid, orderdate, pname, price, qty) with five records. Display the price of product ‘Tablet’. (use functions)
+
